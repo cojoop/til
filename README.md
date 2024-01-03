@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [Change The Style Of HTML Elements A Function](https://github.com/kmseunh/til/blob/main/javascript/change%20the-style-of-html-elements-a-function.md)
 - [Number Of Weekends In Current Month Calculate Function](https://github.com/kmseunh/til/blob/main/javascript/number-of-weekends-in-current-month-calculate-function.md)
 
 ### Python
