@@ -33,3 +33,4 @@
 ### React
 
 - [Compare useState With useReducer](https://github.com/kmseunh/til/blob/main/react/compare%20useState%20with%20useReducer.md)
+- [Dependent Array Of useEffect](https://github.com/kmseunh/til/blob/main/react/dependent-array-of-useEffect.md)
