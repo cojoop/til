@@ -19,7 +19,7 @@ py_compile.compile('my_file.py')
 
 ## 커맨드 라인에서 직접 실행
 
-```python
+```bash
 # 현재 디렉터리 내의 모든 *.py를 *.pyc로 변환
 python -m py_compile .
 
