@@ -37,3 +37,4 @@
 - [Dependent Array Of useEffect](https://github.com/kmseunh/til/blob/main/react/dependent-array-of-useEffect.md)
 - [Difference Between Props And State](https://github.com/kmseunh/til/blob/main/react/difference-between-props-and-state.md)
 - [How To Achieve Routing Features Using React Router v6](https://github.com/kmseunh/til/blob/main/react/how-to-achieve-routing-features-using-react-router-dom-v6.md)
+- [How To Use Outlet Components](https://github.com/kmseunh/til/blob/main/react/how-to-use-outlet-components.md)
