@@ -35,4 +35,5 @@
 
 - [Compare useState With useReducer](https://github.com/kmseunh/til/blob/main/react/compare%20useState%20with%20useReducer.md)
 - [Dependent Array Of useEffect](https://github.com/kmseunh/til/blob/main/react/dependent-array-of-useEffect.md)
+- [Difference Between Props And State](https://github.com/kmseunh/til/blob/main/react/difference-between-props-and-state.md)
 - [How To Achieve Routing Features Using React Router v6](https://github.com/kmseunh/til/blob/main/react/how-to-achieve-routing-features-using-react-router-dom-v6.md)
