@@ -23,6 +23,7 @@
 
 ### GraphQL
 
+- [Data Type In GraphQL](https://github.com/kmseunh/til/blob/main/GraphQL/data-type-in-graphql.md)
 - [Use Apollo Server to Configure GraphQL Server](https://github.com/kmseunh/til/blob/main/GraphQL/use-apollo-server-to-configure-graphql-server.md)
 
 ### JavaScript
