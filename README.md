@@ -10,6 +10,7 @@
 ## Categories
 
 - [Git](#git)
+- [GraphQL](#graphql)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [React](#react)
@@ -19,6 +20,10 @@
 ### Git
 
 - [Change The Commit Date And Time](https://github.com/kmseunh/til/blob/main/Git/change-the-commit-date-and-time.md)
+
+### GraphQL
+
+- [Use Apollo Server to Configure GraphQL Server](https://github.com/kmseunh/til/blob/main/GraphQL/use-apollo-server-to-configure-graphql-server.md)
 
 ### JavaScript
 
