@@ -11,6 +11,7 @@
 
 - [Git](#git)
 - [GraphQL](#graphql)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [React](#react)
@@ -25,6 +26,10 @@
 
 - [Data Type In GraphQL](https://github.com/kmseunh/til/blob/main/GraphQL/data-type-in-graphql.md)
 - [Use Apollo Server to Configure GraphQL Server](https://github.com/kmseunh/til/blob/main/GraphQL/use-apollo-server-to-configure-graphql-server.md)
+
+### HTML
+
+- [Merge Horizontal And Vertical Cells Of A Table](https://github.com/kmseunh/til/blob/main/HTML/merge-horizontal-and-vertical-cells-of-a-table.md)
 
 ### JavaScript
 
