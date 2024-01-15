@@ -9,11 +9,16 @@
 
 ## Categories
 
+- [Git](#git)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [React](#react)
 
 <hr>
+
+### Git
+
+- [Change The Commit Date And Time](https://github.com/kmseunh/til/blob/main/Git/change-the-commit-date-and-time.md)
 
 ### JavaScript
 
