@@ -9,6 +9,7 @@
 
 ## Categories
 
+- [CSS](#css)
 - [Git](#git)
 - [GraphQL](#graphql)
 - [HTML](#html)
@@ -17,6 +18,10 @@
 - [React](#react)
 
 <hr>
+
+### CSS
+
+- [Create A Flashing Effect](https://github.com/kmseunh/til/blob/main/CSS/create-a-flashing-effect.md)
 
 ### Git
 
