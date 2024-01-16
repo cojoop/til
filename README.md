@@ -41,6 +41,7 @@
 ### Python
 
 - [Custom Class That Handles The Decimal Type](https://github.com/kmseunh/til/blob/main/python/custom-class-that-handles-the-decimal-type.md)
+- [Generating Excel File Using DB Data](https://github.com/kmseunh/til/blob/main/python/generating-excel-file-using-db-data.md)
 - [How Tomanually Change A .py File To A .pyc File](https://github.com/kmseunh/til/blob/main/python/how-tomanually-change-a-py-file-to-a-pyc-file.md)
 
 ### React
