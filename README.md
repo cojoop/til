@@ -73,4 +73,4 @@
 
 - [Advanced Settings for Compiling Typescript](https://github.com/kmseunh/til/blob/main/TypeScript/advanced-settings-for-compiling-typescript.md)
 - [Difference Between Any Unknown And Never Type](https://github.com/kmseunh/til/blob/main/TypeScript/difference-between-any-unknown-and-never-type.md)
-- [Interface VS Types] (<https://github.com/kmseunh/til/blob/main/TypeScript/interface-vs-types.md>)
+- [Interface VS Types](<https://github.com/kmseunh/til/blob/main/TypeScript/interface-vs-types.md>)
