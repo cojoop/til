@@ -25,6 +25,7 @@
 
 - [Create A Flashing Effect](https://github.com/kmseunh/til/blob/main/CSS/create-a-flashing-effect.md)
 - [Flex-shrink And Flex-grow Control Item Sizes](https://github.com/kmseunh/til/blob/main/CSS/flex-shrink-and-flex-grow-control-item-sizes.md)
+- [Handle State Changes Smoothly With Transition](https://github.com/kmseunh/til/blob/main/CSS/handle-state-changes-smoothly-with-transition.md)
 
 ### Git
 
