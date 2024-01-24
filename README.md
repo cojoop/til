@@ -53,6 +53,10 @@
 - [set Columns And Data In A Table And Display Them In Handsontable A Function](https://github.com/kmseunh/til/blob/main/javascript/set-columns-and-data-in-a-table-and-display-them-in-handsontable-a-function.md)
 - [Sums Up The Monthly Prices Of A Particular Year A Function](https://github.com/kmseunh/til/blob/main/javascript/sums-up-the-monthly-prices-of-a-particular-year-a-function.md)
 
+### Mac
+
+- [Remotely Connect To SSH Without Password On Mac Terminal](https://github.com/kmseunh/til/blob/main/Mac/remotely-connect-to-ssh-without-password-on-mac.md)
+
 ### Python
 
 - [Custom Class That Handles The Decimal Type](https://github.com/kmseunh/til/blob/main/python/custom-class-that-handles-the-decimal-type.md)
