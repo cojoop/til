@@ -14,6 +14,7 @@
 - [GraphQL](#graphql)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Mac](#mac)
 - [Python](#python)
 - [React](#react)
 - [TypeScript](#typescript)
