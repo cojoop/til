@@ -1,0 +1,104 @@
+# 깃허브 라벨 설정하기
+
+개인 프로젝트를 진행하거나 팀 프로젝트를 할 때, 이슈의 구분, 역할, 내용 등을 명확히하기 위해 라벨을 사용합니다. 매번 새로운 라벨을 설정하는 번거로움을 조금이나마 해소하기 위해, 깃허브 라벨을 한 번에 업데이트하는 방법을 알아보려고 합니다.
+
+&nbsp;
+
+### labels.json 파일 생성
+
+아래 코드를 `labels.json` 파일로 저장해주고, 원하는 디렉토리로 옮겨줍니다.
+
+```json
+[
+  {
+    "name": "Assignee1",
+    "color": "d5ecc2",
+    "description": "담당자1"
+  },
+  {
+    "name": "Assignee2",
+    "color": "ffd3b4",
+    "description": "담당자2"
+  },
+  {
+    "name": "Assignee3",
+    "color": "dbe6fd", 
+    "description": "담당자3"
+  },
+  {
+    "name": "bug",
+    "color": "ee0701",
+    "description": "버그입니다."
+  },
+  {
+    "name": "chore",
+    "color": "8c001a",
+    "description": "세팅 관련입니다."
+  },
+  {
+    "name": "cleanup",
+    "color": "fef2c0",
+    "description": "코드를 더 깔끔하게 만들기만 하고, 코드 작동 방식이나 출력에 대한 부분을 변경하지 않습니다."
+  },
+  {
+    "name": "docs",
+    "color": "d4c5f9",
+    "description": "문서만 변경됩니다."
+  },
+  {
+    "name": "feat",
+    "color": "84b6eb",
+    "description": "구현·개선 사항에 관련된 내용입니다."
+  },
+  {
+    "name": "fix",
+    "color": "de5b7b",
+    "description": "버그를 수정합니다."
+  },
+  {
+    "name": "help wanted",
+    "color": "0e8a16",
+    "description": "누구나 처리할 수 있는 이슈를 나타냅니다."
+  },
+  {
+    "name": "question",
+    "color": "cc317c",
+    "description": "질문만 있는 이슈, 질문이 해결되면 이슈를 종료합니다."
+  },
+  {
+    "name": "refactoring",
+    "color": "fbca04",
+    "description": "코드가 내부적으로 작동하는 방식을 변경합니다. cleanup과는 다릅니다."
+  },
+  {
+    "name": "test",
+    "color": "bfe5bf",
+    "description": "테스트 코드만 변경됩니다."
+  }
+]
+```
+
+&nbsp;
+
+### personal access token 생성
+
+다음 링크([GitHub/Settings/Developer settings](https://github.com/settings/apps))로 접속합니다.
+
+`Personal access tokens` 버튼을 클릭하고 `Generate new token`를 클릭합니다.
+
+- `Note` : 토큰 이름
+- `repo` 카테고리 체크
+
+&nbsp;
+
+### labels.json 적용
+
+`labels.json` 파일이 있는 디렉토리로 이동한 후, 아래 명령어를 입력해서 라벨을 업데이트 합니다.
+
+```bash
+npx github-label-sync --access-token {본인의 token} --labels ./labels.json {GitHub 이름}/{라벨을 업데이트하고 싶은 본인의 레포지터리}
+```
+
+이제 레포지토리로 가서 `Issue > Labels` 에 들어가면 적용된 라벨들을 확인할 수 있습니다.
+
+> 세팅을 바꾸고 싶으면 위에서 다운받았던 `json`을 수정해서 사용하면 됩니다.
