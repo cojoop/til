@@ -10,7 +10,7 @@
 ## Categories
 
 - [CSS](#css)
-- [Git](#git)
+- [Git & GitHub](#git--github)
 - [GraphQL](#graphql)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -27,9 +27,10 @@
 - [Flex-shrink And Flex-grow Control Item Sizes](https://github.com/kmseunh/til/blob/main/CSS/flex-shrink-and-flex-grow-control-item-sizes.md)
 - [Handle State Changes Smoothly With Transition](https://github.com/kmseunh/til/blob/main/CSS/handle-state-changes-smoothly-with-transition.md)
 
-### Git
+### Git & GitHub
 
 - [Change The Commit Date And Time](https://github.com/kmseunh/til/blob/main/Git/change-the-commit-date-and-time.md)
+- [Set up a GitHub Labels](https://github.com/kmseunh/til/blob/main/Git%20%26%20GitHub/set-up-a-github-label.md)
 - [Working With GitHub Using Subbranches](https://github.com/kmseunh/til/blob/main/Git/working-with-github-using-subbranches.md)
 
 ### GraphQL
