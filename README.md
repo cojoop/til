@@ -54,6 +54,7 @@
 - [Difference Between Arrow And General Function](https://github.com/kmseunh/til/blob/main/javascript/difference-between-arrow-and-general-function.md)
 - [Difference between setInterval and setTimeout](https://github.com/kmseunh/til/blob/main/javascript/difference-between-setInterval-and-setTimeout.md)
 - [Filters Data For A Particular Year and Month A Function](https://github.com/kmseunh/til/blob/main/javascript/filters-data-for-a-particular-year-and-month-a-function.md)
+- [New Ways To Repeat Objects](https://github.com/kmseunh/til/blob/main/javascript/new-ways-to-repeat-objects.md)
 - [Number Of Weekends In Current Month Calculate Function](https://github.com/kmseunh/til/blob/main/javascript/number-of-weekends-in-current-month-calculate-function.md)
 - [set Columns And Data In A Table And Display Them In Handsontable A Function](https://github.com/kmseunh/til/blob/main/javascript/set-columns-and-data-in-a-table-and-display-them-in-handsontable-a-function.md)
 - [Sums Up The Monthly Prices Of A Particular Year A Function](https://github.com/kmseunh/til/blob/main/javascript/sums-up-the-monthly-prices-of-a-particular-year-a-function.md)
