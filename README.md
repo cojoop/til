@@ -17,6 +17,7 @@
 - [Mac](#mac)
 - [Python](#python)
 - [React](#react)
+- [Svelte](#svelte)
 - [Tailwind CSS](#tailwind-css)
 - [TypeScript](#typescript)
 
@@ -80,6 +81,10 @@
 - [How To Achieve Routing Features Using React Router v6](https://github.com/kmseunh/til/blob/main/react/how-to-achieve-routing-features-using-react-router-dom-v6.md)
 - [How To Use Outlet Components](https://github.com/kmseunh/til/blob/main/react/how-to-use-outlet-components.md)
 - [Manage State States With useSelector And useDispatch](https://github.com/kmseunh/til/blob/main/react/manage-state-status-with-useSelector-and-useDispatch.md)
+
+### Svelte
+
+- [Lifecycle For Initialization And Organization](https://github.com/kmseunh/til/blob/main/svelte/lifecycle-for-initialization-and-organization.md)
 
 ### Tailwind CSS
 
