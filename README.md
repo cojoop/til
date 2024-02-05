@@ -14,6 +14,7 @@
 - [GraphQL](#graphql)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Linux](#linux)
 - [Mac](#mac)
 - [Python](#python)
 - [React](#react)
@@ -60,6 +61,10 @@
 - [Number Of Weekends In Current Month Calculate Function](https://github.com/kmseunh/til/blob/main/javascript/number-of-weekends-in-current-month-calculate-function.md)
 - [set Columns And Data In A Table And Display Them In Handsontable A Function](https://github.com/kmseunh/til/blob/main/javascript/set-columns-and-data-in-a-table-and-display-them-in-handsontable-a-function.md)
 - [Sums Up The Monthly Prices Of A Particular Year A Function](https://github.com/kmseunh/til/blob/main/javascript/sums-up-the-monthly-prices-of-a-particular-year-a-function.md)
+
+### Linux
+
+- [Use $1 to handle user input](https://github.com/kmseunh/til/blob/main/linux/use-%241-to-handle-user-input.md)
 
 ### Mac
 
