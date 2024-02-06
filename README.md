@@ -90,6 +90,7 @@
 ### Svelte
 
 - [Lifecycle For Initialization And Organization](https://github.com/kmseunh/til/blob/main/svelte/lifecycle-for-initialization-and-organization.md)
+- [Route Dynamically With A Goto Function](https://github.com/kmseunh/til/blob/main/svelte/route-dynamically-with-a-goto-function.md)
 
 ### Tailwind CSS
 
