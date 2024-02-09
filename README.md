@@ -62,6 +62,7 @@
 - [Number Of Weekends In Current Month Calculate Function](https://github.com/kmseunh/til/blob/main/javascript/number-of-weekends-in-current-month-calculate-function.md)
 - [set Columns And Data In A Table And Display Them In Handsontable A Function](https://github.com/kmseunh/til/blob/main/javascript/set-columns-and-data-in-a-table-and-display-them-in-handsontable-a-function.md)
 - [Sums Up The Monthly Prices Of A Particular Year A Function](https://github.com/kmseunh/til/blob/main/javascript/sums-up-the-monthly-prices-of-a-particular-year-a-function.md)
+- [Understanding Array.from Methods](https://github.com/kmseunh/til/blob/main/javascript/understanding-array-from-methods.md)
 
 ### Linux
 
