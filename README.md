@@ -92,6 +92,7 @@
 
 ### Svelte
 
+- [Handle Event Dispatches Easily](https://github.com/kmseunh/til/blob/main/svelte/handle-event-dispatches-easily.md)
 - [Handle Mouse Events In Svelte](https://github.com/kmseunh/til/blob/main/svelte/handle-mouse-events-in-svelte.md)
 - [How To Subscribe To A Store](https://github.com/kmseunh/til/blob/main/svelte/how-to-subscribe-to-a-store.md)
 - [Lifecycle For Initialization And Organization](https://github.com/kmseunh/til/blob/main/svelte/lifecycle-for-initialization-and-organization.md)
