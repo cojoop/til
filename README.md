@@ -101,6 +101,7 @@
 ### Tailwind CSS
 
 - [Add User Defined Colors](https://github.com/kmseunh/til/blob/main/tailwind/add-user-defined-colors.md)
+- [Leverage The @apply Directive](https://github.com/kmseunh/til/blob/main/tailwind/leverage-the-%40apply-directive.md)
 
 ### TypeScript
 
