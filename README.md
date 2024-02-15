@@ -72,6 +72,7 @@
 
 ### Mac
 
+- [Force Delete Allowed Items In The Background](https://github.com/kmseunh/til/blob/main/Mac/force-delete-allowed-Items-in-the-background.md)
 - [Remotely Connect To SSH Without Password On Mac Terminal](https://github.com/kmseunh/til/blob/main/Mac/remotely-connect-to-ssh-without-password-on-mac.md)
 
 ### Python
