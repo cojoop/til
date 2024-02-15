@@ -9,7 +9,7 @@
 `terminal`을 열고 다음 명령어를 입력하면 `finder` 앱이 열립니다.
 
 ```bash
-open ~/Library/LaunchAgents
+open /Library/LaunchAgents
 ```
 
 > 열린 `finder`앱에서 삭제하고 싶은 아이템에 대한 `.plist` 파일을 지웁니다.
@@ -17,16 +17,6 @@ open ~/Library/LaunchAgents
 &nbsp;
 
 ## 전체 유저 권한의 파일 확인 및 지우기
-
-`terminal`을 열고 다음 명령어를 입력하면 `finder` 앱이 열립니다.
-
-```bash
-open /Library/LaunchAgents
-```
-
-> 열린 `finder`앱에서 삭제하고 싶은 아이템에 대한 `.plist` 파일을 지웁니다.
-
-&nbsp;
 
 `terminal`을 열고 다음 명령어를 입력하면 `finder` 앱이 열립니다.
 
