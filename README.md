@@ -54,6 +54,7 @@
 - [Async Await And Promise Handle Asynchronous Code In Javascript](https://github.com/kmseunh/til/blob/main/javascript/async-await-and-promise-handle-asynchronous-code-in-javascript.md)
 - [Change The Style Of HTML Elements A Function](https://github.com/kmseunh/til/blob/main/javascript/change%20the-style-of-html-elements-a-function.md)
 - [Compares And Sets Two Entered Dates And Stores Date Information In An Object A Function](https://github.com/kmseunh/til/blob/main/javascript/compares-and-sets-two-entered-dates-and-stores-date-information-in-an-object-a-function.md)
+- [Comparison Of Asynchronous Data Loading Methods](<https://github.com/kmseunh/til/blob/main/javascript/comparison-of-asynchronous-data-loading-methods.md>)
 - [Converts Dates To The "yyyy-mm-dd" Format A Function](https://github.com/kmseunh/til/blob/main/javascript/converts-dates-to-the-yyyy-mm-dd-format-a-function.md)
 - [Create And Display a Handsontable Table A Function](https://github.com/kmseunh/til/blob/main/javascript/create-and-display-a-handsontable-table-a-function.md)
 - [Cycle Through Key-Value Pairs In An Object](https://github.com/kmseunh/til/blob/main/javascript/cycle-through-key-value-pairs-in-an-object.md)
