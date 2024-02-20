@@ -103,6 +103,7 @@
 - [How To Subscribe To A Store](https://github.com/kmseunh/til/blob/main/svelte/how-to-subscribe-to-a-store.md)
 - [Lifecycle For Initialization And Organization](https://github.com/kmseunh/til/blob/main/svelte/lifecycle-for-initialization-and-organization.md)
 - [Route Dynamically With A Goto Function](https://github.com/kmseunh/til/blob/main/svelte/route-dynamically-with-a-goto-function.md)
+- [Set Up The svelte-inspector Vite plug-in In The SvelteKit App](https://github.com/kmseunh/til/blob/main/svelte/set-up-the-svelte-inspector-vite-plug-in-in-the-sveltekit-app.md)
 
 ### Tailwind CSS
 
