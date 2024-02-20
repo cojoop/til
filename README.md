@@ -84,6 +84,7 @@
 - [Generating Excel File Using DB Data](https://github.com/kmseunh/til/blob/main/python/generating-excel-file-using-db-data.md)
 - [Handle Exceptions With try-except Syntax](https://github.com/kmseunh/til/blob/main/python/handle-exceptions-with-try-except-syntax.md)
 - [How Tomanually Change A .py File To A .pyc File](https://github.com/kmseunh/til/blob/main/python/how-tomanually-change-a-py-file-to-a-pyc-file.md)
+- [Use Python To Encrypt Passwords](https://github.com/kmseunh/til/blob/main/python/use-python%20to-encrypt-passwords.md)
 
 ### React
 
