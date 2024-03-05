@@ -95,6 +95,7 @@
 
 ### Python
 
+- [Assigning Variables and Copying Lists](https://github.com/kmseunh/til/blob/main/python/assigning-variables-and-copying-lists.md)
 - [Conversion Between String And Date In Python](https://github.com/kmseunh/til/blob/main/python/conversion-between-string-and-date-in-python.md)
 - [Custom Class That Handles The Decimal Type](https://github.com/kmseunh/til/blob/main/python/custom-class-that-handles-the-decimal-type.md)
 - [Dictionary Object Get Method](https://github.com/kmseunh/til/blob/main/python/dictionary-object-get-method.md)
