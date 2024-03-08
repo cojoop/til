@@ -15,6 +15,7 @@
 - [Git & GitHub](#git--github)
 - [GraphQL](#graphql)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Mac](#mac)
@@ -62,6 +63,10 @@
 - [Create A Custom Input Box Using The Contenteditable Property](https://github.com/kmseunh/til/blob/main/HTML/create-a-custom-input-box-using-the-contenteditable-property.md)
 - [HTML Dataset Properties](https://github.com/kmseunh/til/blob/main/HTML/html-dataset-properties.md)
 - [Merge Horizontal And Vertical Cells Of A Table](https://github.com/kmseunh/til/blob/main/HTML/merge-horizontal-and-vertical-cells-of-a-table.md)
+
+### Java
+
+- [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
 
 ### JavaScript
 
