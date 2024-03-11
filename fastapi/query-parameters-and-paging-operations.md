@@ -51,8 +51,12 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
+# 가짜 데이터베이스
+fake_items_db = [{"item_id": "item1"}, {"item_id": "item2"}, {"item_id": "item3"}]
+
+
 @app.get("/items/")
-async def read_items(skip: int = 0, limit: int = 10, needy: str):
+async def read_items(skip: int = 0, limit: int = 10, needy: str = None):
     if needy == "yes":
         return fake_items_db[skip : skip + limit]
     else:
