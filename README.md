@@ -43,7 +43,7 @@
 
 ### FastAPI
 
-- [Query parameters and paging operations]()
+- [Query parameters and paging operations](https://github.com/kmseunh/til/blob/main/fastapi/query-parameters-and-paging-operations.md)
 
 ### Flutter
 
