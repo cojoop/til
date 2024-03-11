@@ -1,6 +1,7 @@
 # 쿼리 파라미터 및 페이징 처리
 
 `FastAPI`에서 자주 사용되는 쿼리 파라미터(`Query Parameter`)와 페이징 처리를 구현하는 방법에 대해 알아보려 합니다.
+&nbsp;
 
 ## 쿼리 파라미터(Query Parameters)
 
@@ -18,6 +19,7 @@ async def read_items(q: str = None):
 
 - `/items/` 엔드포인트로 `GET` 요청이 오면 `q`라는 쿼리 파라미터를 받아서 반환합니다.
 - 만약 요청에 `?q=fastapi`와 같이 쿼리 파라미터가 전달되면 해당 값을 반환합니다.
+&nbsp;
 
 ## 페이징 처리(Pagination)
 
@@ -38,6 +40,7 @@ async def read_items(skip: int = 0, limit: int = 10):
 
 - `/items/` 엔드포인트로 `GET` 요청이 오면 `skip`과 `limit`이라는 두 개의 쿼리 파라미터를 받아서 데이터를 반환합니다.
 - `skip`은 건너뛸 항목의 수를, `limit`은 반환할 항목의 수를 나타냅니다.
+&nbsp;
 
 ## 추가적인 쿼리 파라미터
 
