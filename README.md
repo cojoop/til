@@ -11,6 +11,7 @@
 
 - [CSS](#css)
 - [Dart](#dart)
+- [Dev](#dev)
 - [FastAPI](#fastapi)
 - [Flutter](#flutter)
 - [Git & GitHub](#git--github)
@@ -40,6 +41,10 @@
 - [Dart String Interpolation](https://github.com/kmseunh/til/blob/main/dart/dart-string-interpolation.md)
 - [Null Check With Null Aware Operator](https://github.com/kmseunh/til/blob/main/dart/null-check-with-null-aware-operator.md)
 - [Differences In var final const](https://github.com/kmseunh/til/blob/main/dart/var-final-const-difference.md)
+
+### Dev
+
+- [Path Variable And Query Parameter](https://github.com/kmseunh/til/blob/main/dev/path-variable-and-query-parameter.md)
 
 ### FastAPI
 
