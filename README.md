@@ -51,6 +51,7 @@
 
 ### FastAPI
 
+- [Dependency Management Using Depends](https://github.com/kmseunh/til/blob/main/fastapi/dependency-management-using-depends.md)
 - [Query parameters and paging operations](https://github.com/kmseunh/til/blob/main/fastapi/query-parameters-and-paging-operations.md)
 
 ### Flutter
