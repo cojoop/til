@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dev](#dev)
+- [Django](#django)
 - [FastAPI](#fastapi)
 - [Flutter](#flutter)
 - [Git & GitHub](#git--github)
@@ -49,6 +50,10 @@
 - [Session And Cookie](https://github.com/kmseunh/til/blob/main/dev/session-and-cookie.md)
 - [What Is JWT](https://github.com/kmseunh/til/blob/main/dev/what-is-jwt.md)
 - [What Is Transaction](https://github.com/kmseunh/til/blob/main/dev/what-is-transaction.md)
+
+### Django
+
+- [Django Project Structure and File Structure](https://github.com/kmseunh/til/blob/main/django/django-project-structure-and-file-structure.md)
 
 ### FastAPI
 
