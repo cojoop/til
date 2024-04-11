@@ -54,6 +54,7 @@
 ### Django
 
 - [Django Project Structure and File Structure](https://github.com/kmseunh/til/blob/main/django/django-project-structure-and-file-structure.md)
+- [How to Route URLs in Django Project](https://github.com/kmseunh/til/blob/main/django/how-to-route-urls-in-django-project.md)
 
 ### FastAPI
 
