@@ -53,6 +53,7 @@
 
 ### Django
 
+- [Django Model Metadata and Methods](https://github.com/kmseunh/til/blob/main/django/django-model-metadata-and-methods.md)
 - [Django Project Structure and File Structure](https://github.com/kmseunh/til/blob/main/django/django-project-structure-and-file-structure.md)
 - [How to Route URLs in Django Project](https://github.com/kmseunh/til/blob/main/django/how-to-route-urls-in-django-project.md)
 - [Use the __str__ Method in the Model Class](https://github.com/kmseunh/til/blob/main/django/use-the-__str__-method-in-the-model-class.md)
