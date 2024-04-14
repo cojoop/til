@@ -70,4 +70,4 @@ class MyForm(forms.Form):
 </form>
 ```
 
-- form은 Django 뷰에서 템플릿으로 전달된 폼 객체를 나타냅니다.
+- `form`은 `Django` 뷰에서 템플릿으로 전달된 폼 객체를 나타냅니다.
