@@ -94,6 +94,7 @@
 ### Java
 
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
+- [Manage the Java Version with Brew](https://github.com/kmseunh/til/blob/main/java/manage-the-java-version-with-brew.md)
 
 ### JavaScript
 
