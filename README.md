@@ -93,6 +93,7 @@
 
 ### Java
 
+- [About Generics](https://github.com/kmseunh/til/blob/main/java/about-generics.md)
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
 - [Manage the Java Version with Brew](https://github.com/kmseunh/til/blob/main/java/manage-the-java-version-with-brew.md)
 - [Reasons to Use the New Keyword](https://github.com/kmseunh/til/blob/main/java/reasons-to-use-the-new-keyword.md)
