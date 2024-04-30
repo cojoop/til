@@ -93,6 +93,7 @@
 
 ### Java
 
+- [About Enum](https://github.com/kmseunh/til/blob/main/java/about-enum.md)
 - [About Functional Interface](https://github.com/kmseunh/til/blob/main/java/about-functional-interface.md)
 - [About Generics](https://github.com/kmseunh/til/blob/main/java/about-generics.md)
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
