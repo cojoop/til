@@ -100,6 +100,7 @@
 - [Consolidation of Java Variable Fundamental Terms](https://github.com/kmseunh/til/blob/main/java/consolidation-of-java-variable-fundamental-terms.md)
 - [Generics Wildcard](https://github.com/kmseunh/til/blob/main/java/generics-wildcard.md)
 - [Java Method Reference](https://github.com/kmseunh/til/blob/main/java/java-method-reference.md)
+- [Java Resources Work](https://github.com/kmseunh/til/blob/main/java/java-resources-work.md)
 - [Manage the Java Version with Brew](https://github.com/kmseunh/til/blob/main/java/manage-the-java-version-with-brew.md)
 - [Reasons to Use the New Keyword](https://github.com/kmseunh/til/blob/main/java/reasons-to-use-the-new-keyword.md)
 - [Three of The Dependency Injections](https://github.com/kmseunh/til/blob/main/java/three-of-the-dependency-injections.md)
