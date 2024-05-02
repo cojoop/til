@@ -98,6 +98,7 @@
 - [About Generics](https://github.com/kmseunh/til/blob/main/java/about-generics.md)
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
 - [Consolidation of Java Variable Fundamental Terms](https://github.com/kmseunh/til/blob/main/java/consolidation-of-java-variable-fundamental-terms.md)
+- [Equals Method Overriding](https://github.com/kmseunh/til/blob/main/java/equals-method-overriding.md)
 - [Generics Wildcard](https://github.com/kmseunh/til/blob/main/java/generics-wildcard.md)
 - [Java Method Reference](https://github.com/kmseunh/til/blob/main/java/java-method-reference.md)
 - [Java Resources Work](https://github.com/kmseunh/til/blob/main/java/java-resources-work.md)
