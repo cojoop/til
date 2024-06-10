@@ -98,6 +98,7 @@
 - [About Functional Interface](https://github.com/kmseunh/til/blob/main/java/about-functional-interface.md)
 - [About Generics](https://github.com/kmseunh/til/blob/main/java/about-generics.md)
 - [About Maven](https://github.com/kmseunh/til/blob/main/java/about-maven.md)
+- [About Servlet and JSP](https://github.com/kmseunh/til/blob/main/java/about-servlet-and-jsp.md)
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
 - [Consolidation of Java Variable Fundamental Terms](https://github.com/kmseunh/til/blob/main/java/consolidation-of-java-variable-fundamental-terms.md)
 - [Equals Method Overriding](https://github.com/kmseunh/til/blob/main/java/equals-method-overriding.md)
