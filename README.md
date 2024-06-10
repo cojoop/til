@@ -46,6 +46,7 @@
 ### Dev
 
 - [Concurrency Issues and Solutions](https://github.com/kmseunh/til/blob/main/dev/concurrency-issues-and-solutions.md)
+- [Difference Between Web Server and WAS](https://github.com/kmseunh/til/blob/main/dev/difference-between-web-server-and-was.md)
 - [Path Variable And Query Parameter](https://github.com/kmseunh/til/blob/main/dev/path-variable-and-query-parameter.md)
 - [Session And Cookie](https://github.com/kmseunh/til/blob/main/dev/session-and-cookie.md)
 - [What Is JWT](https://github.com/kmseunh/til/blob/main/dev/what-is-jwt.md)
