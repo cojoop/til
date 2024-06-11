@@ -108,6 +108,7 @@
 - [Java Resources Work](https://github.com/kmseunh/til/blob/main/java/java-resources-work.md)
 - [JSP Basic Grammar](https://github.com/kmseunh/til/blob/main/java/jsp-basic-grammar.md)
 - [JSP Basic Object](https://github.com/kmseunh/til/blob/main/java/jsp-basic-object.md)
+- [JSP Forward and Redirect](https://github.com/kmseunh/til/blob/main/java/jsp-forward-and-redirect.md)
 - [JSP Lifecycle](https://github.com/kmseunh/til/blob/main/java/jsp-lifecycle.md)
 - [Manage the Java Version with Brew](https://github.com/kmseunh/til/blob/main/java/manage-the-java-version-with-brew.md)
 - [Reasons to Use the New Keyword](https://github.com/kmseunh/til/blob/main/java/reasons-to-use-the-new-keyword.md)
