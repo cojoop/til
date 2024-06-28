@@ -11,6 +11,7 @@
 
 - [CSS](#css)
 - [Dart](#dart)
+- [DB](#db)
 - [Dev](#dev)
 - [Django](#django)
 - [FastAPI](#fastapi)
@@ -42,6 +43,10 @@
 - [Dart String Interpolation](https://github.com/kmseunh/til/blob/main/dart/dart-string-interpolation.md)
 - [Null Check With Null Aware Operator](https://github.com/kmseunh/til/blob/main/dart/null-check-with-null-aware-operator.md)
 - [Differences In var final const](https://github.com/kmseunh/til/blob/main/dart/var-final-const-difference.md)
+
+### DB
+
+- [Reasons to Use Sequences in the Database](https://github.com/kmseunh/til/blob/main/db/reasons-to-use-sequences-in-the-database.md)
 
 ### Dev
 
