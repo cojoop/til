@@ -14,6 +14,7 @@
 - [DB](#db)
 - [Dev](#dev)
 - [Django](#django)
+- [Error](#error)
 - [FastAPI](#fastapi)
 - [Flutter](#flutter)
 - [Git & GitHub](#git--github)
@@ -64,8 +65,12 @@
 - [Django Project Structure and File Structure](https://github.com/kmseunh/til/blob/main/django/django-project-structure-and-file-structure.md)
 - [Generic View of Django](https://github.com/kmseunh/til/blob/main/django/generic-view-of-django.md)
 - [How to Route URLs in Django Project](https://github.com/kmseunh/til/blob/main/django/how-to-route-urls-in-django-project.md)
-- [Use the __str__ Method in the Model Class](https://github.com/kmseunh/til/blob/main/django/use-the-__str__-method-in-the-model-class.md)
+- [Use the \_\_str__ Method in the Model Class](https://github.com/kmseunh/til/blob/main/django/use-the-__str__-method-in-the-model-class.md)
 - [Using Django Crispy Forms](https://github.com/kmseunh/til/blob/main/django/using-django-crispy-forms.md)
+
+### Error
+
+- [ERROR: Vertica VJDBC 4856 Error - Syntax Error at or Near “LIMIT”](https://github.com/kmseunh/til/blob/main/error/vjdbc-4856-syntax-error-at-or-near-limit.md)
 
 ### FastAPI
 
