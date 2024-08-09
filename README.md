@@ -46,8 +46,9 @@
 
 ### DB
 
-- [Reasons to Use Sequences in the Database](https://github.com/kmseunh/til/blob/main/db/reasons-to-use-sequences-in-the-database.md)
 - [Difference Between LEFT JOIN and Inner JOIN](https://github.com/kmseunh/til/blob/main/db/difference-between-left-join-and-inner-join.md)
+- [How to Manage Data Using Temporary Tables](https://github.com/kmseunh/til/blob/main/db/how-to-manage-data-using-temporary-tables.md)
+- [Reasons to Use Sequences in the Database](https://github.com/kmseunh/til/blob/main/db/reasons-to-use-sequences-in-the-database.md)
 
 ### Dev
 
