@@ -115,6 +115,7 @@
 - [Generics Wildcard](https://github.com/kmseunh/til/blob/main/java/generics-wildcard.md)
 - [Java Method Reference](https://github.com/kmseunh/til/blob/main/java/java-method-reference.md)
 - [Java Resources Work](https://github.com/kmseunh/til/blob/main/java/java-resources-work.md)
+- [JDK, JVM, JRE](https://github.com/kmseunh/til/blob/main/java/jdk-jvm-jre.md)
 - [JSP Basic Grammar](https://github.com/kmseunh/til/blob/main/java/jsp-basic-grammar.md)
 - [JSP Basic Object](https://github.com/kmseunh/til/blob/main/java/jsp-basic-object.md)
 - [JSP Forward and Redirect](https://github.com/kmseunh/til/blob/main/java/jsp-forward-and-redirect.md)
