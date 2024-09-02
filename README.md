@@ -55,6 +55,7 @@
 - [Concurrency Issues and Solutions](https://github.com/kmseunh/til/blob/main/dev/concurrency-issues-and-solutions.md)
 - [Difference Between Web Server and WAS](https://github.com/kmseunh/til/blob/main/dev/difference-between-web-server-and-was.md)
 - [Path Variable And Query Parameter](https://github.com/kmseunh/til/blob/main/dev/path-variable-and-query-parameter.md)
+- [Reason About Project Clean](https://github.com/kmseunh/til/blob/main/dev/reason-about-project-clean.md)
 - [Session And Cookie](https://github.com/kmseunh/til/blob/main/dev/session-and-cookie.md)
 - [SSL For HTTPS Secure Connection](https://github.com/kmseunh/til/blob/main/dev/ssl-for-https-secure-connection.md)
 - [Thinking from an object's perspective](https://github.com/kmseunh/til/blob/main/dev/thinking-from-an-object-perspective.md)
