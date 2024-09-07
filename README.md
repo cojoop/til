@@ -10,14 +10,11 @@
 ## Categories
 
 - [CSS](#css)
-- [Dart](#dart)
 - [DB](#db)
 - [Dev](#dev)
 - [Django](#django)
 - [FastAPI](#fastapi)
-- [Flutter](#flutter)
 - [Git & GitHub](#git--github)
-- [GraphQL](#graphql)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -37,12 +34,6 @@
 - [Create A Flashing Effect](https://github.com/kmseunh/til/blob/main/CSS/create-a-flashing-effect.md)
 - [Flex-shrink And Flex-grow Control Item Sizes](https://github.com/kmseunh/til/blob/main/CSS/flex-shrink-and-flex-grow-control-item-sizes.md)
 - [Handle State Changes Smoothly With Transition](https://github.com/kmseunh/til/blob/main/CSS/handle-state-changes-smoothly-with-transition.md)
-
-### Dart
-
-- [Dart String Interpolation](https://github.com/kmseunh/til/blob/main/dart/dart-string-interpolation.md)
-- [Null Check With Null Aware Operator](https://github.com/kmseunh/til/blob/main/dart/null-check-with-null-aware-operator.md)
-- [Differences In var final const](https://github.com/kmseunh/til/blob/main/dart/var-final-const-difference.md)
 
 ### DB
 
@@ -80,23 +71,11 @@
 - [model.py for Model Definition and schema.py for Data Validation](https://github.com/kmseunh/til/blob/main/fastapi/model_py-for-model-definition-and-schema_py-for-data-validation.md)
 - [Query parameters and paging operations](https://github.com/kmseunh/til/blob/main/fastapi/query-parameters-and-paging-operations.md)
 
-### Flutter
-
-- [Build Modes Available For Application Deployment](https://github.com/kmseunh/til/blob/main/flutter/build-modes-available-for-application-deployment.md)
-- [Difference Between Padding And Container In Flutter](https://github.com/kmseunh/til/blob/main/flutter/difference-between-padding-and-container-in-flutter.md)
-- [InitState-And-Dispose-Methods](https://github.com/kmseunh/til/blob/main/flutter/initState-and-dispose-methods.md)
-- [Two Core Widgets That Make Up The UI](https://github.com/kmseunh/til/blob/main/flutter/two-core-widgets-that-make-up-the-ui.md)
-
 ### Git & GitHub
 
 - [Change The Commit Date And Time](https://github.com/kmseunh/til/blob/main/Git/change-the-commit-date-and-time.md)
 - [Set up a GitHub Labels](https://github.com/kmseunh/til/blob/main/Git%20%26%20GitHub/set-up-a-github-label.md)
 - [Working With GitHub Using Subbranches](https://github.com/kmseunh/til/blob/main/Git/working-with-github-using-subbranches.md)
-
-### GraphQL
-
-- [Data Type In GraphQL](https://github.com/kmseunh/til/blob/main/GraphQL/data-type-in-graphql.md)
-- [Use Apollo Server to Configure GraphQL Server](https://github.com/kmseunh/til/blob/main/GraphQL/use-apollo-server-to-configure-graphql-server.md)
 
 ### HTML
 
@@ -136,18 +115,12 @@
 - [Add Or Remove Array Contents Using The Splice Method](https://github.com/kmseunh/til/blob/main/javascript/add-or-remove-array-contents-using-the-splice-method.md)
 - [Async Await And Promise Handle Asynchronous Code In Javascript](https://github.com/kmseunh/til/blob/main/javascript/async-await-and-promise-handle-asynchronous-code-in-javascript.md)
 - [Change The Style Of HTML Elements A Function](https://github.com/kmseunh/til/blob/main/javascript/change%20the-style-of-html-elements-a-function.md)
-- [Compares And Sets Two Entered Dates And Stores Date Information In An Object A Function](https://github.com/kmseunh/til/blob/main/javascript/compares-and-sets-two-entered-dates-and-stores-date-information-in-an-object-a-function.md)
 - [Comparison Of Asynchronous Data Loading Methods](<https://github.com/kmseunh/til/blob/main/javascript/comparison-of-asynchronous-data-loading-methods.md>)
 - [Converts Dates To The "yyyy-mm-dd" Format A Function](https://github.com/kmseunh/til/blob/main/javascript/converts-dates-to-the-yyyy-mm-dd-format-a-function.md)
-- [Create And Display a Handsontable Table A Function](https://github.com/kmseunh/til/blob/main/javascript/create-and-display-a-handsontable-table-a-function.md)
 - [Cycle Through Key-Value Pairs In An Object](https://github.com/kmseunh/til/blob/main/javascript/cycle-through-key-value-pairs-in-an-object.md)
 - [Difference Between Arrow And General Function](https://github.com/kmseunh/til/blob/main/javascript/difference-between-arrow-and-general-function.md)
 - [Difference between setInterval and setTimeout](https://github.com/kmseunh/til/blob/main/javascript/difference-between-setInterval-and-setTimeout.md)
-- [Filters Data For A Particular Year and Month A Function](https://github.com/kmseunh/til/blob/main/javascript/filters-data-for-a-particular-year-and-month-a-function.md)
 - [New Ways To Repeat Objects](https://github.com/kmseunh/til/blob/main/javascript/new-ways-to-repeat-objects.md)
-- [Number Of Weekends In Current Month Calculate Function](https://github.com/kmseunh/til/blob/main/javascript/number-of-weekends-in-current-month-calculate-function.md)
-- [set Columns And Data In A Table And Display Them In Handsontable A Function](https://github.com/kmseunh/til/blob/main/javascript/set-columns-and-data-in-a-table-and-display-them-in-handsontable-a-function.md)
-- [Sums Up The Monthly Prices Of A Particular Year A Function](https://github.com/kmseunh/til/blob/main/javascript/sums-up-the-monthly-prices-of-a-particular-year-a-function.md)
 - [Understanding Array.from Methods](https://github.com/kmseunh/til/blob/main/javascript/understanding-array-from-methods.md)
 - [Use The RequestAnimationFrame Method To Control Web Animation](https://github.com/kmseunh/til/blob/main/javascript/use-the-requestanimationframe-method-to-control-web-animation.md)
 
@@ -165,9 +138,7 @@
 
 - [Assigning Variables and Copying Lists](https://github.com/kmseunh/til/blob/main/python/assigning-variables-and-copying-lists.md)
 - [Conversion Between String And Date In Python](https://github.com/kmseunh/til/blob/main/python/conversion-between-string-and-date-in-python.md)
-- [Custom Class That Handles The Decimal Type](https://github.com/kmseunh/til/blob/main/python/custom-class-that-handles-the-decimal-type.md)
 - [Dictionary Object Get Method](https://github.com/kmseunh/til/blob/main/python/dictionary-object-get-method.md)
-- [Generating Excel File Using DB Data](https://github.com/kmseunh/til/blob/main/python/generating-excel-file-using-db-data.md)
 - [Handle Exceptions With try-except Syntax](https://github.com/kmseunh/til/blob/main/python/handle-exceptions-with-try-except-syntax.md)
 - [How Tomanually Change A.py File To A.pyc File](https://github.com/kmseunh/til/blob/main/python/how-tomanually-change-a-py-file-to-a-pyc-file.md)
 - [Python Project Management with Pyenv and Poetry](https://github.com/kmseunh/til/blob/main/python/python-project-management-with-pyenv-and-poetry.md)
