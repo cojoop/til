@@ -12,7 +12,6 @@
 - [CSS](#css)
 - [DB](#db)
 - [Dev](#dev)
-- [Django](#django)
 - [FastAPI](#fastapi)
 - [Git & GitHub](#git--github)
 - [HTML](#html)
@@ -21,10 +20,8 @@
 - [Linux](#linux)
 - [Mac](#mac)
 - [Python](#python)
-- [React](#react)
 - [Svelte](#svelte)
 - [Tailwind CSS](#tailwind-css)
-- [TypeScript](#typescript)
 
 <hr>
 
@@ -54,15 +51,6 @@
 - [Thinking from an object's perspective](https://github.com/kmseunh/til/blob/main/dev/thinking-from-an-object-perspective.md)
 - [What Is JWT](https://github.com/kmseunh/til/blob/main/dev/what-is-jwt.md)
 - [What Is Transaction](https://github.com/kmseunh/til/blob/main/dev/what-is-transaction.md)
-
-### Django
-
-- [Django Model Metadata and Methods](https://github.com/kmseunh/til/blob/main/django/django-model-metadata-and-methods.md)
-- [Django Project Structure and File Structure](https://github.com/kmseunh/til/blob/main/django/django-project-structure-and-file-structure.md)
-- [Generic View of Django](https://github.com/kmseunh/til/blob/main/django/generic-view-of-django.md)
-- [How to Route URLs in Django Project](https://github.com/kmseunh/til/blob/main/django/how-to-route-urls-in-django-project.md)
-- [Use the \_\_str__ Method in the Model Class](https://github.com/kmseunh/til/blob/main/django/use-the-__str__-method-in-the-model-class.md)
-- [Using Django Crispy Forms](https://github.com/kmseunh/til/blob/main/django/using-django-crispy-forms.md)
 
 ### FastAPI
 
@@ -146,16 +134,6 @@
 - [Understanding and Leveraging Iterators and Generators](https://github.com/kmseunh/til/blob/main/python/understanding-and-leveraging-iterators-and-generators.md)
 - [Use Python To Encrypt Passwords](https://github.com/kmseunh/til/blob/main/python/use-python%20to-encrypt-passwords.md)
 
-### React
-
-- [Asynchronize With createAsyncThunk And createSlice.md](https://github.com/kmseunh/til/blob/main/react/asynchronize-with-createAsyncThunk-and-createSlice.md)
-- [Compare useState With useReducer](https://github.com/kmseunh/til/blob/main/react/compare%20useState%20with%20useReducer.md)
-- [Dependent Array Of useEffect](https://github.com/kmseunh/til/blob/main/react/dependent-array-of-useEffect.md)
-- [Difference Between Props And State](https://github.com/kmseunh/til/blob/main/react/difference-between-props-and-state.md)
-- [How To Achieve Routing Features Using React Router v6](https://github.com/kmseunh/til/blob/main/react/how-to-achieve-routing-features-using-react-router-dom-v6.md)
-- [How To Use Outlet Components](https://github.com/kmseunh/til/blob/main/react/how-to-use-outlet-components.md)
-- [Manage State States With useSelector And useDispatch](https://github.com/kmseunh/til/blob/main/react/manage-state-status-with-useSelector-and-useDispatch.md)
-
 ### Svelte
 
 - [Handle Event Dispatches Easily](https://github.com/kmseunh/til/blob/main/svelte/handle-event-dispatches-easily.md)
@@ -170,10 +148,3 @@
 
 - [Add User Defined Colors](https://github.com/kmseunh/til/blob/main/tailwind/add-user-defined-colors.md)
 - [Leverage The @apply Directive](https://github.com/kmseunh/til/blob/main/tailwind/leverage-the-%40apply-directive.md)
-
-### TypeScript
-
-- [Advanced Settings for Compiling Typescript](https://github.com/kmseunh/til/blob/main/TypeScript/advanced-settings-for-compiling-typescript.md)
-- [Difference Between Any Unknown And Never Type](https://github.com/kmseunh/til/blob/main/TypeScript/difference-between-any-unknown-and-never-type.md)
-- [Express An Optional Type In Question Mark](https://github.com/kmseunh/til/blob/main/TypeScript/express-an-optional-type-in-question-mark.md)
-- [Interface VS Types](<https://github.com/kmseunh/til/blob/main/TypeScript/interface-vs-types.md>)
