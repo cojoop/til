@@ -81,6 +81,7 @@
 - [Compare Statement and PreparedStatement](https://github.com/kmseunh/til/blob/main/java/compare-statementpand-preparedstatement.md)
 - [Comparison between JPA and MyBatis](https://github.com/kmseunh/til/blob/main/java/comparison-between-jpa-and-mybatis.md)
 - [Consolidation of Java Variable Fundamental Terms](https://github.com/kmseunh/til/blob/main/java/consolidation-of-java-variable-fundamental-terms.md)
+- [Dynamic Parameterization Code Forwarding](https://github.com/kmseunh/til/blob/main/java/dynamic-parameterization-code-forwarding.md)
 - [Equals Method Overriding](https://github.com/kmseunh/til/blob/main/java/equals-method-overriding.md)
 - [Generator this( ), Reference Variable this](https://github.com/kmseunh/til/blob/main/java/generator-this-reference-variable-this.md)
 - [Generics Wildcard](https://github.com/kmseunh/til/blob/main/java/generics-wildcard.md)
