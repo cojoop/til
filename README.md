@@ -34,8 +34,9 @@
 
 ### DB
 
-- [FOR UPDATE Statement](https://github.com/kmseunh/til/blob/main/db/for-update-statement.md)
 - [Difference Between LEFT JOIN and Inner JOIN](https://github.com/kmseunh/til/blob/main/db/difference-between-left-join-and-inner-join.md)
+- [ETL Data Transformation Guidelines](https://github.com/kmseunh/til/blob/main/db/etl-data-transformation-guidelines.md)
+- [FOR UPDATE Statement](https://github.com/kmseunh/til/blob/main/db/for-update-statement.md)
 - [How to Manage Data Using Temporary Tables](https://github.com/kmseunh/til/blob/main/db/how-to-manage-data-using-temporary-tables.md)
 - [Reasons to Use Sequences in the Database](https://github.com/kmseunh/til/blob/main/db/reasons-to-use-sequences-in-the-database.md)
 - [What is Transaction](https://github.com/kmseunh/til/blob/main/db/what-is-transaction.md)
