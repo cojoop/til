@@ -96,6 +96,7 @@
 - [JSP Forward and Redirect](https://github.com/kmseunh/til/blob/main/java/jsp-forward-and-redirect.md)
 - [JSP Lifecycle](https://github.com/kmseunh/til/blob/main/java/jsp-lifecycle.md)
 - [Manage the Java Version with Brew](https://github.com/kmseunh/til/blob/main/java/manage-the-java-version-with-brew.md)
+- [Primitive Parameters & Reference Parameters](https://github.com/kmseunh/til/blob/main/java/primitive-parameters-&-reference-parameters.md)
 - [Reasons to Use the New Keyword](https://github.com/kmseunh/til/blob/main/java/reasons-to-use-the-new-keyword.md)
 - [Three of The Dependency Injections](https://github.com/kmseunh/til/blob/main/java/three-of-the-dependency-injections.md)
 - [What is a Constructor?](https://github.com/kmseunh/til/blob/main/java/what-is-a-constructor.md)
