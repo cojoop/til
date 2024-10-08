@@ -145,6 +145,7 @@
 ### Spring
 
 - [About Dependency Injection](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-dependency-injection.md)
+- [About Loose Coupling](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-loose-coupling.md)
 - [Separate Service and DAO Interface and Implementation Classes](https://github.com/kmseunh/til/blob/main/spring/spring-framework/separate-service-and-dao-interface-and-implementation-classes.md)
 
 ### Svelte
