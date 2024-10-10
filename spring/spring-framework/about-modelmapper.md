@@ -12,10 +12,10 @@ ModelMapper는 필드 이름이 동일하거나 유사할 경우, 별도의 매�
 **3. 커스터마이징 가능 (Custom Mapping)**
 복잡한 변환 로직이 필요한 경우, 사용자가 매핑 규칙을 세부적으로 정의할 수 있습니다. 필드 간의 이름이 다르거나, 특정 변환 로직이 필요할 경우 사용자 정의 매핑을 설정할 수 있습니다.
 
-    ```java
+```java
     modelMapper.typeMap(Source.class, Destination.class)
             .addMappings(mapper -> mapper.map(Source::getSourceField, Destination::setDestinationField));
-    ```
+```
 
 **4. 유연한 타입 변환 (Flexible Type Conversion)**
 기본적인 데이터 타입뿐만 아니라 복잡한 객체나 다른 데이터 타입으로도 변환할 수 있습니다. 기본적으로 Date를 LocalDate로 변환하거나, 숫자를 문자열로 변환하는 등의 작업을 처리할 수 있습니다.
