@@ -144,6 +144,7 @@
 
 ### Spring
 
+- [About Bean](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-bean.md)
 - [About Dependency Injection](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-dependency-injection.md)
 - [About Loose Coupling](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-loose-coupling.md)
 - [About ModelMapper](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-modelmapper.md)
