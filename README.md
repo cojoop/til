@@ -149,6 +149,7 @@
 - [About Loose Coupling](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-loose-coupling.md)
 - [About ModelMapper](https://github.com/kmseunh/til/blob/main/spring/spring-framework/about-modelmapper.md)
 - [Core Concepts of the Servlet API and How to Leverage them with Spring](https://github.com/kmseunh/til/blob/main/spring/spring-framework/core-concepts-of-the-servlet-api-and-how-to-leverage-them-with-spring.md)
+- [Difference Between DAO and Mapper](https://github.com/kmseunh/til/blob/main/spring/spring-framework/difference-between-dao-and-mapper.md)
 - [How to Use DTO and VO at each Layer](https://github.com/kmseunh/til/blob/main/spring/spring-framework/how-to-use-dto-and-vo-at-each-layer.md)
 - [Reasons for Separating Interface and Implementation Classes in Service and DAO](https://github.com/kmseunh/til/blob/main/spring/spring-framework/reasons-for-separating-interface-and-implementation-classes-in-service-and-dao.md)
 - [Separate Service and DAO Interface and Implementation Classes](https://github.com/kmseunh/til/blob/main/spring/spring-framework/separate-service-and-dao-interface-and-implementation-classes.md)
