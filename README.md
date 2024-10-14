@@ -12,7 +12,6 @@
 - [CSS](#css)
 - [DB](#db)
 - [Dev](#dev)
-- [FastAPI](#fastapi)
 - [Git & GitHub](#git--github)
 - [HTML](#html)
 - [Java](#java)
@@ -26,10 +25,7 @@
 
 ### CSS
 
-- [Create A Circular Loading Icon](https://github.com/kmseunh/til/blob/main/CSS/create-a-circular-loading-icon.md)
-- [Create A Flashing Effect](https://github.com/kmseunh/til/blob/main/CSS/create-a-flashing-effect.md)
-- [Flex-shrink And Flex-grow Control Item Sizes](https://github.com/kmseunh/til/blob/main/CSS/flex-shrink-and-flex-grow-control-item-sizes.md)
-- [Handle State Changes Smoothly With Transition](https://github.com/kmseunh/til/blob/main/CSS/handle-state-changes-smoothly-with-transition.md)
+- [flex-shrink와 flex-grow](https://github.com/kmseunh/til/blob/main/css/flex-shrink%EC%99%80%20flex-grow.md)
 
 ### DB
 
@@ -42,29 +38,19 @@
 
 ### Dev
 
-- [About PRG Pattern](https://github.com/kmseunh/til/blob/main/dev/about-prg-pattern.md)
-- [Concurrency Issues and Solutions](https://github.com/kmseunh/til/blob/main/dev/concurrency-issues-and-solutions.md)
-- [Difference Between Web Server and WAS](https://github.com/kmseunh/til/blob/main/dev/difference-between-web-server-and-was.md)
-- [Path Variable And Query Parameter](https://github.com/kmseunh/til/blob/main/dev/path-variable-and-query-parameter.md)
-- [Reason About Project Clean](https://github.com/kmseunh/til/blob/main/dev/reason-about-project-clean.md)
-- [Session And Cookie](https://github.com/kmseunh/til/blob/main/dev/session-and-cookie.md)
-- [SSL For HTTPS Secure Connection](https://github.com/kmseunh/til/blob/main/dev/ssl-for-https-secure-connection.md)
-- [Thinking from an object's perspective](https://github.com/kmseunh/til/blob/main/dev/thinking-from-an-object-perspective.md)
-- [What Is JWT](https://github.com/kmseunh/til/blob/main/dev/what-is-jwt.md)
-- [What Is Transaction](https://github.com/kmseunh/til/blob/main/dev/what-is-transaction.md)
-
-### FastAPI
-
-- [Dependency Management Using Depends](https://github.com/kmseunh/til/blob/main/fastapi/dependency-management-using-depends.md)
-- [How FastAPI Handles Exceptions](https://github.com/kmseunh/til/blob/main/fastapi/how-fastapi-handles-exceptions.md)
-- [model.py for Model Definition and schema.py for Data Validation](https://github.com/kmseunh/til/blob/main/fastapi/model_py-for-model-definition-and-schema_py-for-data-validation.md)
-- [Query parameters and paging operations](https://github.com/kmseunh/til/blob/main/fastapi/query-parameters-and-paging-operations.md)
+- [HTTPS 보안 연결을 위한 SSL](https://github.com/kmseunh/til/blob/main/dev/HTTPS%20%EB%B3%B4%EC%95%88%20%EC%97%B0%EA%B2%B0%EC%9D%84%20%EC%9C%84%ED%95%9C%20SSL.md)
+- [JWT(JSON Web Token)란](https://github.com/kmseunh/til/blob/main/dev/JWT(JSON%20Web%20Token)%EB%9E%80.md)
+- [PRG(Post/Redirect/Get) 패턴이란](https://github.com/kmseunh/til/blob/main/dev/PRG%20%ED%8C%A8%ED%84%B4.md)
+- [Path Variable과 Query Parameter](https://github.com/kmseunh/til/blob/main/dev/Path%20Variable%EA%B3%BC%20Query%20Parameter.md)
+- [Web Server와 WAS의 차이점](https://github.com/kmseunh/til/blob/main/dev/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+- [동시성 문제와 해결 방법](https://github.com/kmseunh/til/blob/main/dev/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
+- [프로젝트를 클린(clean)하는 이유](https://github.com/kmseunh/til/blob/main/dev/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%ED%81%B4%EB%A6%B0(clean)%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 
 ### Git & GitHub
 
-- [Change The Commit Date And Time](https://github.com/kmseunh/til/blob/main/Git/change-the-commit-date-and-time.md)
-- [Set up a GitHub Labels](https://github.com/kmseunh/til/blob/main/Git%20%26%20GitHub/set-up-a-github-label.md)
-- [Working With GitHub Using Subbranches](https://github.com/kmseunh/til/blob/main/Git/working-with-github-using-subbranches.md)
+- [commit 날짜 및 시간 변경하기](https://github.com/kmseunh/til/blob/main/git%20%26%20github/commit%20%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
+- [깃허브 라벨 설정하기](https://github.com/kmseunh/til/blob/main/git%20%26%20github/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%9D%BC%EB%B2%A8%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
+- [서브 브랜치(sub-branch)를 사용하여 작업하는 방법](https://github.com/kmseunh/til/blob/main/git%20%26%20github/%EC%84%9C%EB%B8%8C%20%EB%B8%8C%EB%9E%9C%EC%B9%98(sub-branch)%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%9E%91%EC%97%85%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 ### HTML
 
@@ -125,8 +111,8 @@
 
 ### Mac
 
-- [Force Delete Allowed Items In The Background](https://github.com/kmseunh/til/blob/main/Mac/force-delete-allowed-Items-in-the-background.md)
-- [Remotely Connect To SSH Without Password On Mac Terminal](https://github.com/kmseunh/til/blob/main/Mac/remotely-connect-to-ssh-without-password-on-mac.md)
+- [Mac에서 비밀번호 없이 ssh 원격접속하기](https://github.com/kmseunh/til/blob/main/mac/Mac%EC%97%90%EC%84%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%97%86%EC%9D%B4%20ssh%20%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0.md)
+- [백그라운드 허용된 아이템 강제 삭제](https://github.com/kmseunh/til/blob/main/mac/%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%ED%97%88%EC%9A%A9%EB%90%9C%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B0%95%EC%A0%9C%20%EC%82%AD%EC%A0%9C.md)
 
 ### Python
 
