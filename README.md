@@ -21,8 +21,6 @@
 - [Mac](#mac)
 - [Python](#python)
 - [Spring](#spring)
-- [Svelte](#svelte)
-- [Tailwind CSS](#tailwind-css)
 
 <hr>
 
@@ -70,9 +68,9 @@
 
 ### HTML
 
-- [Create A Custom Input Box Using The Contenteditable Property](https://github.com/kmseunh/til/blob/main/HTML/create-a-custom-input-box-using-the-contenteditable-property.md)
-- [HTML Dataset Properties](https://github.com/kmseunh/til/blob/main/HTML/html-dataset-properties.md)
-- [Merge Horizontal And Vertical Cells Of A Table](https://github.com/kmseunh/til/blob/main/HTML/merge-horizontal-and-vertical-cells-of-a-table.md)
+- [HTML의 데이터셋(Dataset) 속성](https://github.com/kmseunh/til/blob/main/html/HTML%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B(Dataset)%20%EC%86%8D%EC%84%B1.md)
+- [contenteditable 속성이란](https://github.com/kmseunh/til/blob/main/html/contenteditable%20%EC%86%8D%EC%84%B1%EC%9D%B4%EB%9E%80.md)
+- [테이블(table) 가로, 세로 셀 병합하는 방법](https://github.com/kmseunh/til/blob/main/html/%ED%85%8C%EC%9D%B4%EB%B8%94(table)%20%EA%B0%80%EB%A1%9C%2C%20%EC%84%B8%EB%A1%9C%20%EC%85%80%20%EB%B3%91%ED%95%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 ### Java
 
@@ -154,18 +152,3 @@
 - [스프링 Model이란](https://github.com/kmseunh/til/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%AA%A8%EB%8D%B8(Model).md)
 - [스프링에서의 ModelMapper 활용](https://github.com/kmseunh/til/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98%20ModelMapper%20%ED%99%9C%EC%9A%A9.md)
 - [의존성 주입(Dependency Injection, DI)이란](https://github.com/kmseunh/til/blob/main/spring/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(Dependency%20Injection%2C%20DI).md)
-
-### Svelte
-
-- [Handle Event Dispatches Easily](https://github.com/kmseunh/til/blob/main/svelte/handle-event-dispatches-easily.md)
-- [Handle Mouse Events In Svelte](https://github.com/kmseunh/til/blob/main/svelte/handle-mouse-events-in-svelte.md)
-- [How To Subscribe To A Store](https://github.com/kmseunh/til/blob/main/svelte/how-to-subscribe-to-a-store.md)
-- [Lifecycle For Initialization And Organization](https://github.com/kmseunh/til/blob/main/svelte/lifecycle-for-initialization-and-organization.md)
-- [Preload Data With data-sveltekit-prefetch](https://github.com/kmseunh/til/blob/main/svelte/preload-data-with-data-sveltekit-prefetch.md)
-- [Route Dynamically With A Goto Function](https://github.com/kmseunh/til/blob/main/svelte/route-dynamically-with-a-goto-function.md)
-- [Set Up The svelte-inspector Vite plug-in In The SvelteKit App](https://github.com/kmseunh/til/blob/main/svelte/set-up-the-svelte-inspector-vite-plug-in-in-the-sveltekit-app.md)
-
-### Tailwind CSS
-
-- [Add User Defined Colors](https://github.com/kmseunh/til/blob/main/tailwind/add-user-defined-colors.md)
-- [Leverage The @apply Directive](https://github.com/kmseunh/til/blob/main/tailwind/leverage-the-%40apply-directive.md)
