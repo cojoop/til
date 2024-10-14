@@ -33,12 +33,12 @@
 
 ### DB
 
-- [Difference Between LEFT JOIN and Inner JOIN](https://github.com/kmseunh/til/blob/main/db/difference-between-left-join-and-inner-join.md)
-- [ETL Data Transformation Guidelines](https://github.com/kmseunh/til/blob/main/db/etl-data-transformation-guidelines.md)
-- [FOR UPDATE Statement](https://github.com/kmseunh/til/blob/main/db/for-update-statement.md)
-- [How to Manage Data Using Temporary Tables](https://github.com/kmseunh/til/blob/main/db/how-to-manage-data-using-temporary-tables.md)
-- [Reasons to Use Sequences in the Database](https://github.com/kmseunh/til/blob/main/db/reasons-to-use-sequences-in-the-database.md)
-- [What is Transaction](https://github.com/kmseunh/til/blob/main/db/what-is-transaction.md)
+- [ETL 데이터 변환 시 주의사항](https://github.com/kmseunh/til/blob/main/db/ETL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%ED%99%98%20%EC%8B%9C%20%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.md)
+- [FOR UPDATE 구문](https://github.com/kmseunh/til/blob/main/db/FOR%20UPDATE%20%EA%B5%AC%EB%AC%B8.md)
+- [LEFT JOIN과 INNER JOIN의 차이점](https://github.com/kmseunh/til/blob/main/db/LEFT%20JOIN%EA%B3%BC%20INNER%20JOIN%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+- [시퀀스를 사용하는 이유](https://github.com/kmseunh/til/blob/main/db/%EC%8B%9C%ED%80%80%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [임시 테이블을 사용하여 데이터 관리하기](https://github.com/kmseunh/til/blob/main/db/%EC%9E%84%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+- [트랜잭션(Transaction)](https://github.com/kmseunh/til/blob/main/db/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 
 ### Dev
 
