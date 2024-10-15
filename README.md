@@ -92,17 +92,15 @@
 
 ### JavaScript
 
-- [Add Or Remove Array Contents Using The Splice Method](https://github.com/kmseunh/til/blob/main/javascript/add-or-remove-array-contents-using-the-splice-method.md)
-- [Async Await And Promise Handle Asynchronous Code In Javascript](https://github.com/kmseunh/til/blob/main/javascript/async-await-and-promise-handle-asynchronous-code-in-javascript.md)
-- [Change The Style Of HTML Elements A Function](https://github.com/kmseunh/til/blob/main/javascript/change%20the-style-of-html-elements-a-function.md)
-- [Comparison Of Asynchronous Data Loading Methods](<https://github.com/kmseunh/til/blob/main/javascript/comparison-of-asynchronous-data-loading-methods.md>)
-- [Converts Dates To The "yyyy-mm-dd" Format A Function](https://github.com/kmseunh/til/blob/main/javascript/converts-dates-to-the-yyyy-mm-dd-format-a-function.md)
-- [Cycle Through Key-Value Pairs In An Object](https://github.com/kmseunh/til/blob/main/javascript/cycle-through-key-value-pairs-in-an-object.md)
-- [Difference Between Arrow And General Function](https://github.com/kmseunh/til/blob/main/javascript/difference-between-arrow-and-general-function.md)
-- [Difference between setInterval and setTimeout](https://github.com/kmseunh/til/blob/main/javascript/difference-between-setInterval-and-setTimeout.md)
-- [New Ways To Repeat Objects](https://github.com/kmseunh/til/blob/main/javascript/new-ways-to-repeat-objects.md)
-- [Understanding Array.from Methods](https://github.com/kmseunh/til/blob/main/javascript/understanding-array-from-methods.md)
-- [Use The RequestAnimationFrame Method To Control Web Animation](https://github.com/kmseunh/til/blob/main/javascript/use-the-requestanimationframe-method-to-control-web-animation.md)
+- [Array.from 메서드](https://github.com/kmseunh/til/blob/main/javascript/Array.from%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [requestAnimationFrame 메서드](https://github.com/kmseunh/til/blob/main/javascript/requestAnimationFrame%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [setInterval과 setTimeout 차이](https://github.com/kmseunh/til/blob/main/javascript/setInterval%EA%B3%BC%20setTimeout%20%EC%B0%A8%EC%9D%B4.md)
+- [splice 메서드](https://github.com/kmseunh/til/blob/main/javascript/splice%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [객체를 반복하는 새로운 방법](https://github.com/kmseunh/til/blob/main/javascript/%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B0%A9%EB%B2%95.md)
+- [날짜 형식을 변환하는 방법](https://github.com/kmseunh/til/blob/main/javascript/%EB%82%A0%EC%A7%9C%20%ED%98%95%EC%8B%9D%EC%9D%84%20%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [비동기 데이터 로딩 방식 비교: 함수 분리 vs 직접 호출](https://github.com/kmseunh/til/blob/main/javascript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A1%9C%EB%94%A9%20%EB%B0%A9%EC%8B%9D%20%EB%B9%84%EA%B5%90.md)
+- [비동기 코드 다루는 방법](https://github.com/kmseunh/til/blob/main/javascript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%BD%94%EB%93%9C%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [화살표 함수와 일반 함수 차이](https://github.com/kmseunh/til/blob/main/javascript/%ED%99%94%EC%82%B4%ED%91%9C%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EB%B0%98%20%ED%95%A8%EC%88%98%20%EC%B0%A8%EC%9D%B4.md)
 
 ### Linux
 
@@ -116,15 +114,14 @@
 
 ### Python
 
-- [Assigning Variables and Copying Lists](https://github.com/kmseunh/til/blob/main/python/assigning-variables-and-copying-lists.md)
-- [Conversion Between String And Date In Python](https://github.com/kmseunh/til/blob/main/python/conversion-between-string-and-date-in-python.md)
-- [Dictionary Object Get Method](https://github.com/kmseunh/til/blob/main/python/dictionary-object-get-method.md)
-- [Handle Exceptions With try-except Syntax](https://github.com/kmseunh/til/blob/main/python/handle-exceptions-with-try-except-syntax.md)
-- [How Tomanually Change A.py File To A.pyc File](https://github.com/kmseunh/til/blob/main/python/how-tomanually-change-a-py-file-to-a-pyc-file.md)
-- [Python Project Management with Pyenv and Poetry](https://github.com/kmseunh/til/blob/main/python/python-project-management-with-pyenv-and-poetry.md)
-- [Typing Modules And Type Hinting](https://github.com/kmseunh/til/blob/main/python/typing-modules-and-type-hinting.md)
-- [Understanding and Leveraging Iterators and Generators](https://github.com/kmseunh/til/blob/main/python/understanding-and-leveraging-iterators-and-generators.md)
-- [Use Python To Encrypt Passwords](https://github.com/kmseunh/til/blob/main/python/use-python%20to-encrypt-passwords.md)
+- [Python 프로젝트 관리(with pyenv & poetry)](https://github.com/kmseunh/til/blob/main/python/Python%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC(with%20pyenv%20%26%20poetry).md)
+- [Python을 사용하여 비밀번호 암호화하기](https://github.com/kmseunh/til/blob/main/python/Python%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%95%94%ED%98%B8%ED%99%94%ED%95%98%EA%B8%B0.md)
+- [Typing 모듈과 Type Hinting](https://github.com/kmseunh/til/blob/main/python/Typing%20%EB%AA%A8%EB%93%88%EA%B3%BC%20Type%20Hinting.md)
+- [py 파일을 pyc 파일로 수동 변경하는 방법](https://github.com/kmseunh/til/blob/main/python/py%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20pyc%20%ED%8C%8C%EC%9D%BC%EB%A1%9C%20%EC%88%98%EB%8F%99%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [딕셔너리 객체의 get( ) 메소드](https://github.com/kmseunh/til/blob/main/python/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20get(%20)%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
+- [문자열과 날짜 사이의 변환](https://github.com/kmseunh/til/blob/main/python/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EB%82%A0%EC%A7%9C%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EB%B3%80%ED%99%98.md)
+- [변수 할당과 리스트 복사](https://github.com/kmseunh/til/blob/main/python/%EB%B3%80%EC%88%98%20%ED%95%A0%EB%8B%B9%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EB%B3%B5%EC%82%AC.md)
+- [이터레이터(Iterators)와 제네레이터(Generators)](https://github.com/kmseunh/til/blob/main/python/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0(Iterators)%EC%99%80%20%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%ED%84%B0(Generators).md)
 
 ### Spring
 
