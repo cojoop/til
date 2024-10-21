@@ -134,6 +134,7 @@
 - [느슨한 결합(Loose Coupling)이란](https://github.com/kmseunh/til/blob/main/spring/%EB%8A%90%EC%8A%A8%ED%95%9C%20%EA%B2%B0%ED%95%A9(Loose%20Coupling).md)
 - [빈(Bean)이란](https://github.com/kmseunh/til/blob/main/spring/%EB%B9%88(Bean).md)
 - [스프링 Model이란](https://github.com/kmseunh/til/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%AA%A8%EB%8D%B8(Model).md)
+- [스프링 컨테이너(IoC)와 스프링 컨텍스트, Application Context](https://github.com/kmseunh/til/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88(IOC)%EC%99%80%2C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2C%20Application%20Context.md)
 - [스프링에서의 ModelMapper 활용](https://github.com/kmseunh/til/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98%20ModelMapper%20%ED%99%9C%EC%9A%A9.md)
 - [옵저버 패턴(Observer Pattern)과 리스너(listener)](https://github.com/kmseunh/til/blob/main/spring/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%EB%84%88.md)
 - [의존성 주입(Dependency Injection, DI)이란](https://github.com/kmseunh/til/blob/main/spring/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85(Dependency%20Injection%2C%20DI).md)
