@@ -50,14 +50,17 @@ BeanFactory의 모든 기능을 포함하면서도, 엔터프라이즈 애플리
 
 #### ApplicationContext의 주요 구현체
 
-**1. AnnotationConfigApplicationContext**
-    - 자바 설정 클래스(`@Configuration`)를 통해 빈을 설정하고 관리하는 방식입니다. XML 파일 대신 자바 기반 설정을 선호하는 현대적인 방식입니다.
+##### 1. AnnotationConfigApplicationContext
 
-**2. ClassPathXmlApplicationContext**
-    - 클래스패스에 있는 XML 파일을 읽어 스프링 빈 설정을 하는 방식입니다. 스프링 초기 버전에서 많이 사용된 방식입니다.
+- 자바 설정 클래스(`@Configuration`)를 통해 빈을 설정하고 관리하는 방식입니다. XML 파일 대신 자바 기반 설정을 선호하는 현대적인 방식입니다.
 
-**3. FileSystemXmlApplicationContext**
-    - 파일 시스템 경로에서 XML 파일을 읽어와 빈을 설정하는 방식입니다. 주로 외부에서 관리되는 설정 파일을 사용할 때 유용합니다.
+##### 2. ClassPathXmlApplicationContext
+
+- 클래스패스에 있는 XML 파일을 읽어 스프링 빈 설정을 하는 방식입니다. 스프링 초기 버전에서 많이 사용된 방식입니다.
+
+##### 3. FileSystemXmlApplicationContext
+
+- 파일 시스템 경로에서 XML 파일을 읽어와 빈을 설정하는 방식입니다. 주로 외부에서 관리되는 설정 파일을 사용할 때 유용합니다.
 
 ### 빈(Bean)의 생명주기
 
