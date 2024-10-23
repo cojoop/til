@@ -125,6 +125,7 @@
 - [DTO, VO, Entity의 사용 방식](https://github.com/kmseunh/til/blob/main/spring/DTO%2C%20VO%2C%20Entity%EC%9D%98%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EC%8B%9D.md)
 - [JPA(Java Persistence API)](https://github.com/kmseunh/til/blob/main/spring/JPA(Java%20Persistence%20API).md)
 - [JSP와 Thymleaf 비교](https://github.com/kmseunh/til/blob/main/spring/JSP%EC%99%80%20Thymleaf%20%EB%B9%84%EA%B5%90.md)
+- [POJO와 Java Bean, Spring Bean](https://github.com/kmseunh/til/blob/main/spring/POJO%EC%99%80%20Java%20Bean%2C%20Spring%20Bean.md)
 - [Querydsl이란](https://github.com/kmseunh/til/blob/main/spring/Querydsl.md)
 - [Repository 생성 시 JpaRepository를 상속하지 않는 이유](https://github.com/kmseunh/til/blob/main/spring/Repository%20%EC%83%9D%EC%84%B1%20%EC%8B%9C%20JpaRepository%EB%A5%BC%20%EC%83%81%EC%86%8D%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [Service와 DAO에서 인터페이스와 구현 클래스를 분리하는 이유](https://github.com/kmseunh/til/blob/main/spring/Service%EC%99%80%20DAO%EC%97%90%EC%84%9C%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EA%B5%AC%ED%98%84%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
