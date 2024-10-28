@@ -16,38 +16,6 @@ IoC 컨테이너는 주로 다음과 같은 작업을 수행합니다.
 3. 라이프사이클 관리: IoC 컨테이너는 빈의 라이프사이클을 관리합니다. 빈의 초기화와 소멸 메서드를 호출하며, 빈의 상태나 생애 주기를 관리합니다.
 4. 설정 및 환경 관리: IoC 컨테이너는 프로퍼티 파일이나 환경 설정을 통해 애플리케이션의 설정을 중앙에서 관리할 수 있도록 지원합니다.
 
-### IoC 컨테이너의 주요 구현체
-
-스프링 프레임워크는 다양한 IoC 컨테이너 구현체를 제공하며, 대표적으로 `BeanFactory`와 `ApplicationContext`가 있습니다.
-
-#### 1. BeanFactory
-
-- **설명:** 스프링 IoC 컨테이너의 기본 인터페이스로, 빈을 지연 초기화(`lazy-loading`) 방식으로 생성하고 관리합니다. 빈을 사용할 때만 초기화하여 메모리 사용을 절약합니다.
-
-##### 주요 특징
-
-- 가벼운 컨테이너로, IoC 기능만 제공
-- 필요한 시점에만 빈을 생성해 메모리 효율이 좋음
-
-```java
-Resource resource = new ClassPathResource("applicationContext.xml");
-BeanFactory factory = new XmlBeanFactory(resource);
-```
-
-#### 2. ApplicationContext
-
-- **설명:** `BeanFactory`를 확장한 IoC 컨테이너로, 추가적인 기능을 많이 제공하며 일반적으로 스프링 애플리케이션에서는 `ApplicationContext`를 사용합니다. 빈을 미리 로드해두기 때문에 즉시 사용이 가능합니다.
-
-##### 주요 특징
-
-- `BeanFactory`의 기능에 추가로 트랜잭션 관리, 메시지 소스 처리, 이벤트 발행 등 다양한 기능 제공
-- 일반적으로 `@Configuration` 클래스나 XML 설정 파일로 정의된 빈을 관리함
-
-```java
-ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-MyBean myBean = context.getBean(MyBean.class);
-```
-
 ### IoC 컨테이너 동작 방식
 
 1. 빈 정의(Bean Definition): IoC 컨테이너는 설정 파일(`XML`) 또는 애노테이션(`@Component, @Configuration 등`)을 통해 빈을 정의합니다.
@@ -55,6 +23,10 @@ MyBean myBean = context.getBean(MyBean.class);
 3. 빈 라이프사이클 관리: 빈이 초기화된 후 컨테이너는 빈의 라이프사이클을 관리합니다. 예를 들어, 초기화 메서드와 소멸 메서드를 호출하여 빈을 준비 상태로 만듭니다.
 4. 빈 접근: 빈은 컨테이너에서 필요한 시점에 가져와 사용할 수 있습니다. `ApplicationContext`는 미리 생성된 빈을 반환하며, B`eanFactory`는 요청 시에 빈을 생성하여 반환합니다.
 5. 빈 소멸: 애플리케이션이 종료될 때, 컨테이너는 빈을 소멸시키며 자원을 정리합니다.
+
+#### IoC 컨테이너의 주요 구현체
+
+스프링 프레임워크는 다양한 IoC 컨테이너 구현체를 제공하며, 대표적으로 `BeanFactory`와 `ApplicationContext`가 있습니다.
 
 #### IoC 컨테이너 사용의 이점
 
