@@ -108,9 +108,9 @@ Spring Bean은 Spring IoC (`Inversion of Control`) 컨테이너에 의해 생성
 
 #### 빈 등록 방법
 
-**1. XML 설정:** 전통적인 방식으로 `Spring Bean`을 XML 파일에서 설정.
-**2. 어노테이션 기반:** `@Component`, `@Service`, `@Repository`, `@Controller`를 사용하여 클래스 위에 어노테이션을 붙여 등록.
-**3. Java Config:** `@Configuration`과 `@Bean`을 사용하여 Java 파일에서 설정.
+1. XML 설정: 전통적인 방식으로 `Spring Bean`을 XML 파일에서 설정.
+2. 어노테이션 기반: `@Component`, `@Service`, `@Repository`, `@Controller`를 사용하여 클래스 위에 어노테이션을 붙여 등록.
+3. Java Config: `@Configuration`과 `@Bean`을 사용하여 Java 파일에서 설정.
 
 #### 예제 코드
 
