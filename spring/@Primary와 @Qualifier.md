@@ -41,8 +41,6 @@ public OrderServiceImpl(@Qualifier("mainDiscountPolicy") DiscountPolicy discount
 
 ### 주요 차이점
 
-**1. 사용 방식:** `@Primary`는 빈 등록 시에만 사용하지만, `@Qualifier`는 등록과 주입 시 모두 사용해야 합니다.
-
-**2. 우선순위:** `@Qualifier`가 `@Primary`보다 우선순위가 높습니다. 둘 다 존재할 경우 `@Qualifier`가 우선 적용됩니다.
-
-**3. 유연성:** `@Primary`는 기본값을 지정하는 데 유용하고, @Qualifier는 특정 상황에서 다른 빈을 주입하고 싶을 때 유용합니다.
+1. 사용 방식: `@Primary`는 빈 등록 시에만 사용하지만, `@Qualifier`는 등록과 주입 시 모두 사용해야 합니다.
+2. 우선순위: `@Qualifier`가 `@Primary`보다 우선순위가 높습니다. 둘 다 존재할 경우 `@Qualifier`가 우선 적용됩니다.
+3. 유연성: `@Primary`는 기본값을 지정하는 데 유용하고, @Qualifier는 특정 상황에서 다른 빈을 주입하고 싶을 때 유용합니다.
