@@ -103,7 +103,6 @@
 ### Mac
 
 - [Mac에서 비밀번호 없이 ssh 원격접속하기](https://github.com/kmseunh/til/blob/main/mac/Mac%EC%97%90%EC%84%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%97%86%EC%9D%B4%20ssh%20%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0.md)
-- [Mac에서 비밀번호 없이 ssh 원격접속하기](https://github.com/kmseunh/til/blob/main/mac/Mac%EC%97%90%EC%84%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%97%86%EC%9D%B4%20ssh%20%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0.md)
 - [백그라운드 허용된 아이템 강제 삭제](https://github.com/kmseunh/til/blob/main/mac/%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%ED%97%88%EC%9A%A9%EB%90%9C%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B0%95%EC%A0%9C%20%EC%82%AD%EC%A0%9C.md)
 
 ### Python
